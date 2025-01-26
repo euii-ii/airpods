@@ -43,7 +43,7 @@ Follow these steps to get a local copy of the project up and running.
 
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/euii-ii/airpods.git
    ```
 
 2. **Navigate to the Project Directory**
