@@ -54,6 +54,7 @@ Follow these steps to get a local copy of the project up and running.
 3. **Open the Project**
    Open `index.html` in your browser to view the website.
 
+   
 ## ✨ Usage
 
 - Use your mouse or touchpad to interact with the 3D AirPod model.
