@@ -1,4 +1,3 @@
-
 # 3D AirPod Website
 
 A visually stunning and interactive 3D AirPod showcase website built using HTML, CSS, and JavaScript. This project highlights modern web development techniques, including animations, 3D effects, and responsive design, to deliver an engaging user experience.
